@@ -1,2 +1,2 @@
 all:
-	echo "This is submod1 0.1"
+	echo "This is submod1 0.2"

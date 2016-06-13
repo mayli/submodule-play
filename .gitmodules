@@ -1,0 +1,4 @@
+[submodule "submod1"]
+	path = submod1
+	url = ./.git
+	branch = submod1-0.1
